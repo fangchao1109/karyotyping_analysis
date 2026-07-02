@@ -1,7 +1,7 @@
 # Automated Karyotyping AI System
 
 <p align="center">
-  <img src="./docs/src/karyotyping_workflow_demo.webp" width="900" alt="Automated karyotyping AI workflow">
+  <img src="./docs/src/karyotyping_workflow_demo.gif" width="900" alt="Automated karyotyping AI workflow">
 </p>
 
 > Portfolio case study of AI modules developed for an automated chromosome karyotyping analysis platform.  
