@@ -28,7 +28,7 @@ The AI components perform metaphase localization, quality assessment, chromosome
 | Imaging workflow | 10x whole-slide scan → 100x targeted acquisition |
 | AI tasks | Metaphase localization, quality assessment, chromosome segmentation, chromosome classification |
 | Key challenge | Overlapping chromosomes and strict metaphase-quality requirements |
-| Data scale | ~20K annotated samples / instances |
+| Data scale | ~7K annotated samples / instances |
 | Deployment | AI microservices integrated with microscope scanning workflow |
 | Role | AI team leader |
 
